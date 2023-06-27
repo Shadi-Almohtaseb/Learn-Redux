@@ -14,6 +14,5 @@ https://learn-redux-nu.vercel.app/
 
 ## App Preview
 
-![](src/asstes/Images/loading.gif)
-![](src/asstes/Images/re1.png)
-![](src/asstes/Images/re2.png)
+![](src/assets/Images/re1.png)
+![](src/assets/Images/re2.png)
